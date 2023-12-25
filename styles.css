@@ -1,0 +1,36 @@
+h1, h3 { 
+    text-align: center;
+    color: Purple;
+}
+body {
+    background-color: white;
+}
+.table-main {
+        margin-left: 200px;
+        margin-right: 200px;
+}
+tr {
+    border: 1px solid darkblue
+}
+
+th {
+    background-color: pink;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid darkblue;
+}
+td { 
+    border: 1px solid darkblue;
+}
+img {
+    width: 300px;
+    height: 150px;
+}
+
+#type {
+    text-align: center;
+    width: 80px;
+    height: auto;
+}
+
